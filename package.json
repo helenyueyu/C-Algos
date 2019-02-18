@@ -1,0 +1,8 @@
+{
+  "name": "C++Algos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tokyosuite/C-Algos.git",
+  "author": "tokyosuite <helenyueyu@gmail.com>",
+  "license": "MIT"
+}
